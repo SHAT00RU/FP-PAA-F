@@ -20,11 +20,9 @@ answers the multi-target evacuation question.
 
 ## Team
 
-| Name | Student ID | Class | Role |
-|------|-------------|-------|------|
-| [Member 1 Full Name] | [5025221xxx] | [D/IUP/E/F/G] | Model & Dijkstra |
-| [Member 2 Full Name] | [5025221xxx] | [D/IUP/E/F/G] | Bellman-Ford & demo |
-| [Member 3 Full Name] | [5025221xxx] | [D/IUP/E/F/G] | Analysis & benchmarks |
+| Name | Student ID | Class |
+|------|-------------|-------|
+| [Putu Agrapana Mahesa Kusmeiran] | [5025231225] | [F] |
 
 ## Repository structure
 
