@@ -48,8 +48,8 @@ answers the multi-target evacuation question.
 Requires Python 3.10+ (developed and tested on Python 3.12).
 
 ```bash
-git clone https://github.com/[your-username]/evacroute-daa-final.git
-cd evacroute-daa-final
+git clone https://github.com/SHAT00RU/FP-PAA-F.git
+cd campus-evac
 pip install -r requirements.txt
 ```
 
